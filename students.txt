@@ -1,0 +1,5 @@
+6,Ganga,MBA
+5,Nithin,MBA
+4,Kavya,MBA
+3,Harsha,MBA
+2,Vinay,MBA
